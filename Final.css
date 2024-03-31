@@ -1,0 +1,112 @@
+.text{
+    margin-left: 20%;
+    padding-top: 40px;
+    float: left;
+    font-size: 60px;
+}
+
+.heading{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50pt;
+}
+
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+}
+
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+}
+
+
+.heading1{   
+    
+    padding-top: 30px;
+    font-size: 60;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    padding: 10px;
+    overflow:hidden;
+    font-family: sans-serif;
+
+} 
+
+.navbar a{
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    display: block;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    width: 137;
+
+}
+
+.navbar :hover{
+    background-color: rgb(149, 149, 149);
+}
+
+.navbar li{
+    float: left;
+    font-size: 25px;
+
+}
+
+.click{
+    color: rgb(0, 14, 210);
+}
+
+.navbar{
+    background-color: black;
+}
+
+.image{
+    width: 30%;
+    border: 6px solid;
+}
+
+.image1{
+    width: 34%;
+    border: 6px solid;
+}
+
+.image2{
+    width: 30.5%;
+    border: 6px solid;
+}
+
+.image3{
+    width: 30%;
+    border: 6px solid;
+}
+
+.image4{
+    width: 30%;
+    border: 6px solid;
+}
+
+.image5{
+    width: 30%;
+    border: 6px solid;
+}
+
+.image6{
+    width: 31%;
+    border: 6px solid;
+}
+
+footer{
+    margin-left: 130px;
+    border: 2px solid;
+    width: 1000px;
+
+}
