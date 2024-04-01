@@ -1,11 +1,10 @@
 /* for the text next to logo on the top */
 .head{
-    margin-left: 20%;
     padding-top: 40px;
     float: left;
     font-size: 60px;
 }
-/* for headings on the first page*/
+/* for headings for all page execpt first page*/
 .heading{
     font-weight: bold;
     text-align: center;
@@ -16,13 +15,8 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20pt;
 }
-/* for all other paragaphs*/
-.p1{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20pt;
-}
 
-/* for all other headings*/
+/* for first page heading*/
 .heading1{   
     
     padding-top: 30px;
@@ -63,7 +57,7 @@
 
 }
 /* guide for the navbar*/
-.naavbarguide{
+.navbarguide{
     color: rgb(0, 14, 210);
 }
 /* the navbar*/
@@ -71,7 +65,7 @@
     background-color: black;
 }
 /* the following are css for the images most cropped differently*/
-.image{
+.imagetype1{
     width: 30%;
     border: 6px solid;
 }
@@ -86,22 +80,8 @@
     border: 6px solid;
 }
 
+
 .image3{
-    width: 30%;
-    border: 6px solid;
-}
-
-.image4{
-    width: 30%;
-    border: 6px solid;
-}
-
-.image5{
-    width: 30%;
-    border: 6px solid;
-}
-
-.image6{
     width: 31%;
     border: 6px solid;
 }
@@ -118,7 +98,7 @@
     border: 10px solid;
     grid-template-columns: 200px 200px 200px;
     text-align: center;
-    font-size: 140%;
+    font-size: medium;
     margin-top: 100px;
     font-weight: bolder;
 }
@@ -131,3 +111,17 @@
     background-color: blue;
 }
   
+
+.img-with-text {
+display: flex;
+justify-content: space-around;
+}
+
+.text-with-image {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container1{
+    border: 6px solid;
+}
