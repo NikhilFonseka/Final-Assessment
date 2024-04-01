@@ -111,6 +111,7 @@
 
 /* for information table*/
 .footer1{
+    margin-left: 7%;
     width: 70%;
     padding-left: 10%;
     display: grid;
