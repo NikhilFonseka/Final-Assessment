@@ -70,7 +70,7 @@
 .navbar{
     background-color: black;
 }
-/* thhe following are css for the most cropped differently*/
+/* the following are css for the images most cropped differently*/
 .image{
     width: 30%;
     border: 6px solid;
@@ -106,13 +106,8 @@
     border: 6px solid;
 }
 
-/* for the images*/
-footer{
-    margin-left: 130px;
-    border: 2px solid;
-    width: 1000px;
+/* for the carousel images*/
 
-}
 
 /* for information table*/
 .footer1{
@@ -126,3 +121,12 @@ footer{
     margin-top: 100px;
     font-weight: bolder;
 }
+
+.carousel-item{
+    height: 700;
+    border: 6px solid;
+    margin-left: 5%;
+    width: 90%;
+    background-color: blue;
+}
+  
